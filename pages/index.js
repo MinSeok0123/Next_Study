@@ -10,6 +10,7 @@ export default function Home() {
         <li>
           <a href="/sub/1">[id]</a>
           <a href="/sub/2">[id]</a>
+          <a href="/sub/3">[id]</a>
         </li>
       </ul>
     </div>
