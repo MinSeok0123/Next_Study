@@ -11,6 +11,7 @@ export default function Home() {
           <a href="/sub/1">[id]</a>
           <a href="/sub/2">[id]</a>
           <a href="/sub/3">[id]</a>
+          <a href="/admin">admin</a>
         </li>
       </ul>
     </div>
